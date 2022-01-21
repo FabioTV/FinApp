@@ -4,7 +4,7 @@ Simple example of a financial application in Node.JS.
 Requisitos <br>
 &ensp;[x] Deve ser possível criar uma conta <br>
 &ensp;[x] Deve ser possível buscar o extrato bancário do cliente <br>
-&ensp;[] Deve ser possível realizar um depósito <br>
+&ensp;[x] Deve ser possível realizar um depósito <br>
 &ensp;[] Deve ser possível realizar um saque <br>
 &ensp;[] Deve ser possível buscar o extrato bancário do cliente por data <br>
 &ensp;[] Deve ser possível atualizar dados da conta do cliente <br>
